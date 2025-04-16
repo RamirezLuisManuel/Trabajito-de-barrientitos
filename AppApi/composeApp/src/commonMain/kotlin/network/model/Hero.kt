@@ -22,5 +22,5 @@ data class Hero (
     val id:String,
     val name:String,
     val powerstats:PowerStats,
-    val image: Image 
+    val image: Image,
 )
